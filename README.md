@@ -16,7 +16,6 @@ Single‑page portfolio with hidden admin mode to add projects locally and copy 
 
 ## Admin mode (hidden)
 
-- Press `Ctrl + Shift + A` then enter PIN from `src/content.ts` (default `2580`).
 - You will see Add Project and Copy Projects JSON. These controls are not visible to regular visitors.
 
 ## Tailwind
@@ -28,9 +27,5 @@ Single‑page portfolio with hidden admin mode to add projects locally and copy 
 
 - Vercel, Netlify, GitHub Pages all work. For GitHub Pages, build and push `dist/` or configure actions.
 
-## Estimated time
 
-- Scaffolding + Tailwind setup: ~10–15 minutes
-- Sections + styling: ~45–60 minutes
-- Hidden admin tools + polish: ~30–45 minutes
-- Total: ~1.5–2.5 hours (content dependent)
+
